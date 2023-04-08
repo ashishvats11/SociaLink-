@@ -17,10 +17,7 @@ Mini social network that I made as my first web app project.
 ![](screenshots/Screenshot%20from%202020-02-29%2019-07-06.png)
 ![](screenshots/Screenshot%20from%202020-02-29%2002-19-26.png)
 ![](screenshots/Screenshot%20from%202020-02-29%2019-21-47.png)
-![](screenshots/Screenshot%20from%202020-02-29%2019-01-38.png)
-![](screenshots/Screenshot%20from%202020-02-29%2019-08-45.png)
-![](screenshots/Screenshot%20from%202020-02-29%2019-25-55.png)
-![](screenshots/Screenshot%20from%202020-02-29%2019-26-42.png)
+
 
 ## Gif
 
