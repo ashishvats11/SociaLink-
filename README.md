@@ -14,18 +14,14 @@ Mini social network that I made as my first web app project.
 ![](screenshots/Screenshot%20from%202020-02-29%2019-06-32.png)
 ![](screenshots/Screenshot%20from%202020-02-29%2019-07-23.png)
 ![](screenshots/Screenshot%20from%202020-02-29%2019-07-45.png)
-![](screenshots/Screenshot%20from%202020-02-29%2019-07-06.png)
 ![](screenshots/Screenshot%20from%202020-02-29%2002-19-26.png)
-![](screenshots/Screenshot%20from%202020-02-29%2019-21-47.png)
+
 
 
 ## Gif
 
 ![](<screenshots/ezgif.com-video-to-gif%20(1).gif>)
 
-## Link to a full video
-
-[Video](https://streamable.com/5srsv)
 
 ## Built With
 
@@ -52,46 +48,3 @@ Mini social network that I made as my first web app project.
 - Get notification when someone likes your post, comment, reply, tag you on post or reply on comment
 - Chat send text message, image
 - Seen feature and activity status of user
-
-## Installing
-
-1. Install dependencies
-
-```
-npm i && cd client && npm i && cd ..
-```
-
-2. Create variables.env file and replace values with yours
-
-```
-NODE_ENV=development
-DATABASE="Mongodb Connection String"
-JWT_KEY="secretkey"
-EMAILUSER="example@gmail.com"
-EMAILPASS="example"
-HOST="your ip eg. http://192.168.0.14:5000"
-ENABLE_SEND_EMAIL="true or false" // false if you don't want to set it up
-TEST_DATABASE="testing db"
-```
-
-3. Go into `client/src/_services/socketService.js` and replace
-
-```
-window.location.hostname
-```
-
-with your local IP address on port 5000 eg.
-
-```
-192.168.0.14:5000
-```
-
-4. Run project
-
-```
-npm run dev
-```
-
-## Contribute
-
-Show your support by ⭐ the project.
